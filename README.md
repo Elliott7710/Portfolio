@@ -1,5 +1,12 @@
 # Elliott Soo — Engineering & Digital Portfolio
 
+## Information and links
+| Field | Details |
+|---|---|
+| Website purpose | portfolio |
+| Website link | https://elliott-soo-portfolio.netlify.app/ |
+| GitHub Repository | https://github.com/Elliott7710/Portfolio |
+
 A personal portfolio showcasing my interests and projects in software engineering, artificial intelligence, automation, robotics, and digital design.
 
 **Engineering intelligence. Designing possibilities.**
