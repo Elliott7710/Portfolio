@@ -25,12 +25,6 @@ An ongoing project exploring a unified environment for development tools, AI ser
 **Focus:** AI integration, system architecture, automation  
 **Status:** In progress
 
-### Lineo-1 — Industrial Robotics Management System
-A centralized interface concept for simplifying workflows across industrial robot controllers. The project information describes an approximately 80% reduction in operational time.
-
-**Focus:** Industrial robotics, software engineering, workflow optimization  
-**Status:** Developed / industrial deployment
-
 ### Multi-Agent AI Collaboration System
 An experimental architecture for coordinating specialized AI agents through shared communication and portal infrastructure.
 
